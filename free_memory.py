@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 def main():
-	pass
+	''' check if theres enough memory'''
 
 main()
