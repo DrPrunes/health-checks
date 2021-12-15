@@ -10,6 +10,10 @@ def check_reboot():
 def dummy_function():
 	pass
 
+def dummy_function3():
+	pass
+
+
 def dummy_function2():
 	pass
 
