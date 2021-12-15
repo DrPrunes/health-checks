@@ -16,7 +16,7 @@ def dummy_function3():
 
 def dummy_function2():
 	pass
-
+# addded this after merging  and deleting branch refactor
 
 def main():
 	if check_reboot():
