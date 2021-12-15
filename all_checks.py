@@ -6,6 +6,13 @@ import csv
 def check_reboot():
 	''' Returns True if theres na pending reboot '''
 	return os.path.exists("/run/reboot-required")
+
+def dummy_function():
+	pass
+
+
+
+
 def main():
 	if check_reboot():
 		print("Pending Reboot")
